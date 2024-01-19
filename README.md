@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi👋
+
+My name is Pavani Kuppili. I'm a Doctoral student working with Prof. Robert Ricci at the Flux Research Group, University of Utah. I'm a Cloud Computing enthusiast with keen interest in Operating Systems and Computer Networks. I'm always in awe with how diverse Computer Systems are and how vast it is getting everyday. My ever passion would be getting to learn and research more in this area. I love to play around different Linux distros and understand the magic of various filesystem architectures. I also love to build and analyze diverse Network topologies looking at the many components included in the these topologies and how different the behavior and results get with minute detailed changes is always a muse. I mostly code my systems in C, Python and Go(worked briefly). Currently I'm working on P4, programming Tofino switches for building low latency SDN networks. 
+
+
 
 <!--
 **pavanikuppili/pavanikuppili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
